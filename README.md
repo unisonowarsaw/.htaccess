@@ -1,2 +1,3 @@
 # .htaccess
-Tweaks to .htaccess for Wordpress
+
+Useful security and speed tweaks to `.htaccess` used by Wordpress.
